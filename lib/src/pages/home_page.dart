@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
   Widget appBar() {
     return AppBar(
       centerTitle: true,
-      title: Text('QR Scanner'),
+      title: Text('QR Scanner App'),
       actions: <Widget>[
         IconButton(
           icon: Icon(Icons.delete_forever),
